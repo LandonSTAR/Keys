@@ -2,24 +2,30 @@
   "valid_keys": [
     {
       "key": "exelsior",
-      "expires": "2026-07-31T23:59:59Z"
+      "expires": "2026-07-31T23:59:59Z",
+      "hwid": ""
     },
     {
       "key": "W1D7U5D6F1",
-      "expires": "2025-9-29T23:59:59Z"
+      "expires": "2025-9-29T23:59:59Z",
+      "hwid": ""
     },
     {
         "key": "Dev",
-        "expires": "2027-02-01T00:00:00Z"
+        "expires": "2027-02-01T00:00:00Z",
+        "hwid": ""
     },
     {
         "key": "CheatEngineSkid",
-        "expires": "2030-12-20T23:59:59Z"
+        "expires": "2030-12-20T23:59:59Z",
+        "hwid": ""
     },
     {
         "key": "TreeLover67",
-        "expires":  "2025-09-17T12:59:59Z"
+        "expires":  "2025-09-17T12:59:59Z",
+        "hwid": ""
     }
   ]
 }
+
 
