@@ -1,4 +1,4 @@
-{
+// {
   "valid_keys": [
     {
       "key": "exelsior",
@@ -24,10 +24,6 @@
       "key": "TreeLover67",
       "expires": "2025-09-29T23:59:59Z",
       "hwid": ""
-    },
+    }
   ]
 }
-
-
-
-
